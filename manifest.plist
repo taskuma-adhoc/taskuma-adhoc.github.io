@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.komadorist.taskuma</string>
 				<key>bundle-version</key>
-				<string>1.1.15</string>
+				<string>1.1.16</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
