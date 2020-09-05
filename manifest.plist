@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/39516494/taskuma/taskuma.ipa</string>
+					<string>https://taskuma-adhoc.github.io/taskuma.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/39516494/taskuma/AppIcon57x57.png</string>
+					<string>https://taskuma-adhoc.github.io/AppIcon57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/39516494/taskuma/AppIcon512x512.png</string>
+					<string>https://taskuma-adhoc.github.io/AppIcon512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
